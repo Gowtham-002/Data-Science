@@ -37,13 +37,14 @@
 4. File Upload
 
 ## Main Goal of the Project
-1.Create a Online Course enrollement Application
-2.Admin can add, update and delete courses in the applicaiton
-3.User can register and would receive email confirmation after registeration
-4.Upon registeration, user can login and see the available courses in the catalog and enroll to the one they like.
-5.At any point user can drop a course.
-6.The user can view the related skills job in <img alt="Html" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-7.The user can provide the feedback to the team throw contactus page and NuFlex team would receive the email
+<ul>
+  <li>1.Create a Online Course enrollement Application</li>
+<li>2.Admin can add, update and delete courses in the applicaiton</li>
+<li>3.User can register and would receive email confirmation after registeration</li>
+<li>4.Upon registeration, user can login and see the available courses in the catalog and enroll to the one they like.</li>
+<li>5.At any point user can drop a course.</li>
+<li>6.The user can view the related skills job in <img alt="Html" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></li>
+<li>7.The user can provide the feedback to the team throw contactus page and NuFlex team would receive the email</li>
 
 ## Web component
 
