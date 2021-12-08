@@ -29,3 +29,21 @@
 <h3>1. Asfan Sajid</h3>
 <h3>2. Gowtham Raghuraman</h3>
 <h3>3. Koushik Kumar Karre</h3>
+
+## Features Implemented
+1. Authentication API
+2. Email API <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+3. Video Player  <img alt="Html" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+4. File Upload
+## Web component
+
+## React
+Change the directory to /ui and then run the below code
+
+```sh
+npm install
+```
+The below code should start the UI component.
+```sh
+npm start
+```
