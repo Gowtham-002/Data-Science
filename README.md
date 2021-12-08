@@ -26,15 +26,25 @@
 
 <h2>Project Team Members</h2>
 
-<h3>1. Asfan Sajid</h3>
-<h3>2. Gowtham Raghuraman</h3>
-<h3>3. Koushik Kumar Karre</h3>
+1. Asfan Sajid
+2. Gowtham Raghuraman
+3. Koushik Kumar Karre
 
 ## Features Implemented
 1. Authentication API
 2. Email API <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 3. Video Player  <img alt="Html" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 4. File Upload
+
+## Main Goal of the Project
+1.Create a Online Course enrollement Application
+2.Admin can add, update and delete courses in the applicaiton
+3.User can register and would receive email confirmation after registeration
+4.Upon registeration, user can login and see the available courses in the catalog and enroll to the one they like.
+5.At any point user can drop a course.
+6.The user can view the related skills job in <img alt="Html" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+7.The user can provide the feedback to the team throw contactus page and NuFlex team would receive the email
+
 ## Web component
 
 ## React
@@ -47,3 +57,20 @@ The below code should start the UI component.
 ```sh
 npm start
 ```
+## Node Controllers
+
+## Start Node server
+
+Change the directory to /server and then run the below code
+
+```sh
+npm install
+```
+The below code should start the backend server.
+```sh
+node server.js
+```
+
+
+
+
