@@ -1,5 +1,7 @@
 <h2>INFO 6150 Final Project</h2>
 
+<h3>Project Team 21</h3>
+
 <h3>Project Title: NUFlex - MERN Stack Application</h3>
 
 <p>
@@ -26,9 +28,9 @@
 
 <h2>Project Team Members</h2>
 
-1. Asfan Sajid
-2. Gowtham Raghuraman
-3. Koushik Kumar Karre
+1. Asfan Sajid - NUID 001546755 sajid.a@northeastern.edu
+2. Gowtham Raghuraman - NUID 001529954 raghuraman.g@northeastern.edu
+3. Koushik Kumar Karre - NUID 001568820 karre.k@northeastern.edu
 
 ## Features Implemented
 1. Authentication API
