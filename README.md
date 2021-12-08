@@ -1,12 +1,12 @@
 <h2>INFO 6150 Final Project</h2>
 
-<h3>Project Title: NUFlex -MERN Stack Application</h3>
+<h3>Project Title: NUFlex - MERN Stack Application</h3>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </p>
 
 <ul>
