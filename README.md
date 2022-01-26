@@ -37,6 +37,7 @@
 2. Email API <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 3. Video Player  <img alt="Html" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 4. File Upload
+5. paypal integration <img alt="paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 
 ## Main Goal of the Project
 <ul>
